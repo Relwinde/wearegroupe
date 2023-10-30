@@ -12,10 +12,10 @@
                     <div class="img"> <img src="img/team/1-01.jpg" alt=""> </div>
                     <div class="info">
                         <h6>Sidi MAIGA</h6>
-                        <p>Wedding Photographer</p>
+                        <p>Photographe</p>
                         <div class="social valign">
                             <div class="full-width">
-                                <p>jason@jopho.com</p> <a href="#"><i class="ti-facebook"></i></a> <a href="#"><i class="ti-twitter-alt"></i></a> <a href="#"><i class="ti-instagram"></i></a>
+                                <p>.</p> <a href="#"><i class="ti-facebook"></i></a> <a href="#"><i class="ti-twitter-alt"></i></a> <a href="#"><i class="ti-instagram"></i></a>
                             </div>
                         </div>
                     </div>
@@ -24,10 +24,10 @@
                     <div class="img"> <img src="img/team/1-02.jpg" alt=""> </div>
                     <div class="info">
                         <h6>Momo DJAMEL</h6>
-                        <p>Interior Photographer</p>
+                        <p>Photographe</p>
                         <div class="social valign">
                             <div class="full-width">
-                                <p>vanessa@jopho.com</p> <a href="#"><i class="ti-facebook"></i></a> <a href="#"><i class="ti-twitter-alt"></i></a> <a href="#"><i class="ti-instagram"></i></a>
+                                <p>.</p> <a href="#"><i class="ti-facebook"></i></a> <a href="#"><i class="ti-twitter-alt"></i></a> <a href="#"><i class="ti-instagram"></i></a>
                             </div>
                         </div>
                     </div>
@@ -36,10 +36,10 @@
                     <div class="img"> <img src="img/team/1-03.jpg" alt=""> </div>
                     <div class="info">
                         <h6>Sadek Soura</h6>
-                        <p>Portrait Photographer</p>
+                        <p>Photographe</p>
                         <div class="social valign">
                             <div class="full-width">
-                                <p>vikasa@jopho.com</p> <a href="#"><i class="ti-facebook"></i></a> <a href="#"><i class="ti-twitter-alt"></i></a> <a href="#"><i class="ti-instagram"></i></a>
+                                <p>.</p> <a href="#"><i class="ti-facebook"></i></a> <a href="#"><i class="ti-twitter-alt"></i></a> <a href="#"><i class="ti-instagram"></i></a>
                             </div>
                         </div>
                     </div>
