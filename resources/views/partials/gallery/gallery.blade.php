@@ -67,6 +67,46 @@
                     <div class="photo-text-more"> <span class="ti-fullscreen"></span> </div>
                 </a>
             </div>
+            <div class="col-md-6 animate-box" data-animate-effect="fadeInUp">
+                <a href="img/gallery/13.jpg" class="d-block jophoto-photo-item" data-caption="Sport Photo" data-fancybox="gallery"> <img src="img/gallery/13.jpg" alt="Image" class="img-fluid">
+                    <div class="photo-text-more"> <span class="ti-fullscreen"></span> </div>
+                </a>
+            </div>
+            <div class="col-md-6 animate-box" data-animate-effect="fadeInUp">
+                <a href="img/gallery/14.jpg" class="d-block jophoto-photo-item" data-caption="Sport Photo" data-fancybox="gallery"> <img src="img/gallery/14.jpg" alt="Image" class="img-fluid">
+                    <div class="photo-text-more"> <span class="ti-fullscreen"></span> </div>
+                </a>
+            </div>
+            <div class="col-md-6 animate-box" data-animate-effect="fadeInUp">
+                <a href="img/gallery/15.jpg" class="d-block jophoto-photo-item" data-caption="Sport Photo" data-fancybox="gallery"> <img src="img/gallery/15.jpg" alt="Image" class="img-fluid">
+                    <div class="photo-text-more"> <span class="ti-fullscreen"></span> </div>
+                </a>
+            </div>
+            <div class="col-md-6 animate-box" data-animate-effect="fadeInUp">
+                <a href="img/gallery/16.jpg" class="d-block jophoto-photo-item" data-caption="Sport Photo" data-fancybox="gallery"> <img src="img/gallery/16.jpg" alt="Image" class="img-fluid">
+                    <div class="photo-text-more"> <span class="ti-fullscreen"></span> </div>
+                </a>
+            </div>
+            <div class="col-md-6 animate-box" data-animate-effect="fadeInUp">
+                <a href="img/gallery/17.jpg" class="d-block jophoto-photo-item" data-caption="Sport Photo" data-fancybox="gallery"> <img src="img/gallery/17.jpg" alt="Image" class="img-fluid">
+                    <div class="photo-text-more"> <span class="ti-fullscreen"></span> </div>
+                </a>
+            </div>
+            <div class="col-md-6 animate-box" data-animate-effect="fadeInUp">
+                <a href="img/gallery/18.jpg" class="d-block jophoto-photo-item" data-caption="Sport Photo" data-fancybox="gallery"> <img src="img/gallery/18.jpg" alt="Image" class="img-fluid">
+                    <div class="photo-text-more"> <span class="ti-fullscreen"></span> </div>
+                </a>
+            </div>
+            <div class="col-md-6 animate-box" data-animate-effect="fadeInUp">
+                <a href="img/gallery/19.jpg" class="d-block jophoto-photo-item" data-caption="Sport Photo" data-fancybox="gallery"> <img src="img/gallery/19.jpg" alt="Image" class="img-fluid">
+                    <div class="photo-text-more"> <span class="ti-fullscreen"></span> </div>
+                </a>
+            </div>
+            <div class="col-md-6 animate-box" data-animate-effect="fadeInUp">
+                <a href="img/gallery/20.jpg" class="d-block jophoto-photo-item" data-caption="Sport Photo" data-fancybox="gallery"> <img src="img/gallery/20.jpg" alt="Image" class="img-fluid">
+                    <div class="photo-text-more"> <span class="ti-fullscreen"></span> </div>
+                </a>
+            </div>
         </div>
     </div>
 </section>
