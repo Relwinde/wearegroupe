@@ -5,17 +5,17 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
-    <title>WE ARE GROUP</title>
-    <link rel="shortcut icon" href="img/favicon-2.png" />
+    <title>Show Tools Experience</title>
+    <link rel="shortcut icon" href="img/thumb.png" />
     <link rel="stylesheet" href="css/plugins.css" />
     <link rel="stylesheet" href="css/style.css" />
 
-    <meta property="og:url"                content="http://www.wearegroup-bf.com" />
+    <meta property="og:url"                content="http://www.showtools-experience.com" />
 	<meta property="og:type"               content="Web Site" />
-	<meta property="og:title"              content="WE ARE GROUP" />
-	<meta property="og:description"        content="Capturez l'essence de votre histoire avec notre expertise photographique et façonnez votre présence en ligne avec une communication digitale qui rayonne." />
-	<meta property="description"        content="Capturez l'essence de votre histoire avec notre expertise photographique et façonnez votre présence en ligne avec une communication digitale qui rayonne." />
-	<meta property="og:image"              content="https://wearegroup-bf.com/img/thumb.png" />
+	<meta property="og:title"              content="Show Tools Experience" />
+	<meta property="og:description"        content="Showtools expériences, là où vos événements prennent vie." />
+	<meta property="description"        content="Showtools expériences, là où vos événements prennent vie." />
+	<meta property="og:image"              content="https://showtools-experience.com/img/thumb.png" />
 	<meta name="googlebot" content="notranslate">
 </head>
 <body>
@@ -42,7 +42,7 @@
                 <div class="col-md-4 footer-text-left">
                     <div class="social"> 
                         {{-- <a href="#" target="_blank"><i class="ti-twitter-alt"></i></a>  --}}
-                        <a href="https://www.facebook.com/WeAreGroup226/" target="_blank"><i class="ti-facebook"></i></a> 
+                        <a href="#" target="_blank"><i class="ti-facebook"></i></a> 
                         {{-- <a href="#" target="_blank"><i class="ti-instagram"></i></a>  --}}
                         {{-- <a href="#" target="_blank"><i class="ti-linkedin"></i></a>  --}}
                     </div>
@@ -53,7 +53,7 @@
                     </div>
                 </div>
                 <div class="col-md-4 footer-text-right">
-                    <p>&copy;2023 WE ARE GROUP. All rights reserved</p>
+                    <p>&copy;2025 Show Tools Experience. All rights reserved</p>
                 </div>
             </div>
         </div>

@@ -2,7 +2,7 @@
     <!-- Logo -->
     <div class="logo-wrapper valign">
         <div class="logo">
-            <h2><a href="{{ route('home') }}">WE ARE</a><span>GROUP</span></h2>
+            <h2><a href="{{ route('home') }}">Show Tools</a><span>Experience</span></h2>
         </div>
     </div>
     <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation"> <span class="icon-bar"><i class="ti-line-double"></i></span> </button>
