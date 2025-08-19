@@ -15,7 +15,7 @@
                     <div class="col-md-8 animate-box mb-60" data-animate-effect="fadeInUp">
                         <h6>Capturez l'essence de votre histoire avec notre expertise photographique et façonnez votre présence en ligne avec une communication digitale qui rayonne.</h6>
                         <p>Notre agence a gagné la confiance de clients du monde entier grâce à notre dévouement sans faille envers l'excellence. Nous sommes fiers de notre équipe talentueuse de photographes et d'experts en communication digitale, qui travaillent main dans la main pour créer des expériences visuelles et narratives mémorables.</p>
-                        <p>Chez Show Tools Experience, nous nous efforçons continuellement de repousser les limites de l'art photographique et de la communication digitale. Notre passion pour l'esthétique et notre engagement envers l'efficacité sont au cœur de tout ce que nous faisons. Explorez nos portfolios et découvrez par vous-même comment nous pouvons transformer votre vision en réalité.</p>
+                        <p>Chez Show Tools Experienced, nous nous efforçons continuellement de repousser les limites de l'art photographique et de la communication digitale. Notre passion pour l'esthétique et notre engagement envers l'efficacité sont au cœur de tout ce que nous faisons. Explorez nos portfolios et découvrez par vous-même comment nous pouvons transformer votre vision en réalité.</p>
                         <img src="img/sign-2.png" class="sign" alt="">
                     </div>
                 </div>

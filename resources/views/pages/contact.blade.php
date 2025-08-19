@@ -9,7 +9,7 @@
             <div class="row mb-90">
                 <div class="col-md-6 mb-30 animate-box" data-animate-effect="fadeInUp">
                     <h6>Adresses</h6>
-                    <p><b>Téléphone :</b> +226 71 71 94 98/ 76 94 80 10</p>
+                    <p><b>Téléphone :</b> +226 71 71 94 98</p>
                     <p><b>Email :</b> infos@showtools-experience.com</p>
                     <p><b>Addresse :</b> Pissy, Ouagadougou, Burkina Faso</p>
                 </div>
